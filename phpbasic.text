@@ -1,0 +1,60 @@
+php: hypertext preprocessor
+world wide used as scripting language.
+its open source language for everyone.
+php scripts are executed on the server.
+
+
+extension is : .php
+it contain html,css,javascript and php code
+executed on server then return plain html to the browser.
+
+
+php can generate dynamic page contant
+php easy to learn and open source
+php can create , edit , delete , open , read , write and close the file on the server.
+php can collect form data
+php can add,delete and modify the data in the database
+php can be control user access
+php can encrypt data
+
+
+php supports wide range of database
+php runs on various platforms
+php is compatible with almost all servers
+
+Datatypes:
+string
+Integer
+Float
+Boolean
+array
+object
+NULL
+Resource
+
+
+PHP NUMBERS
+is_int()
+is_float()
+is_finite()
+is_infinite()
+is_nan()
+is_nameric()
+
+
+array
+.Indexed
+.Associative
+.Multidimensional
+
+superVARIABLES
+.$GLOBALS
+.$_SERVER
+.$_REQUEST
+.$_POST
+.$_GET
+.$_FILES
+.$_ENV
+.$_COOKIE
+.$_SESSION
+
